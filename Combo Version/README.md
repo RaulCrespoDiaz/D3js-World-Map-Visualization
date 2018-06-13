@@ -1,8 +1,8 @@
 # Visualization Challenge Exercise (Combo Version)
 ## The target of this script is to create a world map chart and combo to pick the year from 1960 to 2016 and display a map with the poblation.
 
-<--If you want to watch the result [click here](https://raulcrespodiaz.github.io/Visualization_Exercise3_combo/).
--->
+<!--- If you want to watch the result [click here](https://raulcrespodiaz.github.io/Visualization_Exercise3_combo/).
+--->
 
 ### Final result
 
