@@ -13,7 +13,7 @@
 
 The chart shows a world map transitionating from 1960 to 2016
 
-- Animated Version
+- Combo Version
 ![Final chart](./pictures/Exercise3_final_result_combo.png "Final result")
 
 
